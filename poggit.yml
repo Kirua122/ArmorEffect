@@ -1,0 +1,3 @@
+--- # Poggit-CI Manifest. ouvrez le CI à https://poggit.pmmp.io/ci/kirua122/ArmorEffect
+build-by-default: truebranches:- masterprojects: 
+ArmorEffect: path: ""...
