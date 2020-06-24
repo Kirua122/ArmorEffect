@@ -1,6 +1,8 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Kirua122/ArmorEffect
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Kirua122/
+ArmorEffect
+
 build-by-default: true
 branches:
 - master
-projects: []
+projects: ArmorEffect
 ...
