@@ -4,5 +4,6 @@ ArmorEffect
 build-by-default: true
 branches:
 - master
-projects: ArmorEffect
+projects: 
+   ArmorEffect
 ...
